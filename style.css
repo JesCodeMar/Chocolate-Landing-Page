@@ -1,0 +1,16 @@
+body{
+    background-image: url(images/background.jpg);
+    background-size: cover;
+}
+.logo  img{
+    width: 150px;
+    height: 150px;
+}
+
+.navbar-buttons{
+    display: flex;
+    
+}
+.navbar-buttons a{
+    padding: 10px;
+}
